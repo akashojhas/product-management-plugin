@@ -1,0 +1,23 @@
+product-management-plugin files
+product-management-plugin/
+├── product-management-plugin.php
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│       └── example.png
+├── includes/
+│   ├── admin/
+│   │   ├── product-management.php
+│   │   └── order-management.php
+│   ├── frontend/
+│   │   ├── product-list.php
+│   │   └── cart.php
+│   └── database/
+│       ├── install.php
+│       └── queries.php
+├── languages/
+│   └── product-management-plugin.pot
+└── README.md
